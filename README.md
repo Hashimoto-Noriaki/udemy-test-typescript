@@ -16,3 +16,7 @@ npm run playwright -- --headed
 ```
 npm run playwright:ui
 ```
+### レポート
+```
+npx playwright show-report
+```
